@@ -7,6 +7,11 @@ It helps you track income, expenses, and your real-time balance in an easy and i
 
 🔗 https://expense-tracker-eight-dun-93.vercel.app/
 
+<!>video link:
+Click the video below to watch the working demo of the app:
+
+https://github.com/vittavivek/Expense-Tracker/blob/main/React%20App%20-%20Google%20Chrome%202025-12-03%2019-35-07.mp4
+
 🚀 Features
 
 Add new income & expense transactions
